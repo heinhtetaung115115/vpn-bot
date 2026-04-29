@@ -1,0 +1,31 @@
+{
+  "expressvpn": {
+    "name": "ExpressVPN",
+    "emoji": "⚡",
+    "description": "Fast & secure VPN",
+    "plans": {
+      "1month": {"name": "1 Month",  "duration_days": 30,  "price": 5000},
+      "6month": {"name": "6 Months", "duration_days": 180, "price": 25000},
+      "1year":  {"name": "1 Year",   "duration_days": 365, "price": 45000}
+    }
+  },
+  "adguard": {
+    "name": "AdGuard VPN",
+    "emoji": "🛡️",
+    "description": "Privacy & ad-blocking VPN",
+    "plans": {
+      "1month": {"name": "1 Month",  "duration_days": 30,  "price": 3000},
+      "6month": {"name": "6 Months", "duration_days": 180, "price": 15000}
+    }
+  },
+  "nordvpn": {
+    "name": "NordVPN",
+    "emoji": "🔵",
+    "description": "Top-rated security VPN",
+    "plans": {
+      "1month": {"name": "1 Month",  "duration_days": 30,  "price": 6000},
+      "6month": {"name": "6 Months", "duration_days": 180, "price": 30000},
+      "1year":  {"name": "1 Year",   "duration_days": 365, "price": 50000}
+    }
+  }
+}
