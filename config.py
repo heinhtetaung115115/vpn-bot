@@ -4,8 +4,8 @@ import os
 #  config.py — Bot Configuration (Railway)
 # ──────────────────────────────────────────────
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8696673836:AAHQ5L_plOnKv4nrIJNS5xVChrEWUguNHCU")
-ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "8512964252").split(",")]
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "123456789").split(",")]
 CURRENCY = "ks"
 MIN_TOPUP = 1000.0
 
